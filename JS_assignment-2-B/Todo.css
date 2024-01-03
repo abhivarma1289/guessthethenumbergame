@@ -1,0 +1,68 @@
+.body {
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 0, 204),
+    rgb(28, 92, 228)
+  );
+}
+.cls {
+  display: flex;
+  justify-content: space-evenly;
+}
+.small_box {
+  background-color: aliceblue;
+  width: 362px;
+  height: 150px;
+  border-radius: 5px;
+}
+.add_N_T {
+  background-color: rgb(222, 222, 222);
+  height: 50px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  font-size: large;
+  font-style: bolder;
+}
+.input_but {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  padding-left: 8px;
+}
+#inputt {
+  width: 280px;
+  height: 35px;
+  border-radius: 5px;
+}
+#button {
+  height: 40px;
+  width: 60px;
+  border: 2px solid springgreen;
+  border-radius: 5px;
+}
+.TODO_L {
+  width: 420px;
+  margin-left: 7px;
+}
+#m {
+  background-color: white;
+  border-radius: 6px;
+}
+#del {
+  height: 25px;
+  margin-right: 20px;
+  color: red;
+}
+.xxxx {
+  display: flex;
+  align-items: center;
+
+  background-color: rgb(222, 222, 222);
+  height: 50px;
+  border-radius: 4px;
+}
+.lii {
+  background-color: aliceblue;
+}
